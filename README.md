@@ -16,4 +16,4 @@ click [here](http://tailwindcss.com/docs/) for more.
 
 
 
-### **NOTE: The current outlook of Pagecloud homepage may differ from the project, but as at the time this project was created, it had the same design. !!!Some content on the original Pagecloud homepage maybe missing from the project!!! ** ###
+### **NOTE: The current images of Pagecloud webpage may differ from the actual project, I used closely related images I can find on the internet. !!!Some content on the original Pagecloud homepage maybe missing from the project!!! ** ###
