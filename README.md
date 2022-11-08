@@ -4,8 +4,10 @@
 
 ### Description
 
-This project demonstrates how you can develop beautiful homepage designs using tailwindcss to create a look alike of pagecloud.com homepage. 
-Pagecloud is a web development platform and drag and drop website builder that allows individuals and businesses to create and maintain websites by themselves. Visit their official website for [more...](http://pagecloud.com/)
+This project demonstrates how you can develop beautiful homepage designs using tailwindcss to create a look alike of pagecloud.com e-commerce page. 
+Pagecloud is a web development platform and drag and drop website builder that allows individuals and businesses to create and maintain websites by themselves. Visit their official website for [more...](http://pagecloud.com/) <br>
+
+To view the page I recreated [click here](https://www.pagecloud.com/features/e-commerce) to view.
 
 ### About Tailwindcss
 
